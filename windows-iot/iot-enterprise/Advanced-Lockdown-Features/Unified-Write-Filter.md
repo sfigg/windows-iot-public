@@ -47,7 +47,7 @@ After UWF is enabled, you can select a drive to protect and start using UWF.
 With [Windows 10 IoT Enterprise, version 21H2](/windows/iot/product-family/what's-new-in-windows-10-iot-enterprise-21h2), a new set of capabilities have been introduced to the Unified Write Filter.
 
 1. [UWF Swapfile Created on Any Volume](/windows-hardware/customize/enterprise/uwf-wes7-ewf-to-win10-uwf)
-    * Allows booting from devices suseptible to wear from writings (e.g. SSD)
+    * Allows booting from devices susceptible to wear from writings (e.g. SSD)
     * Redirects Disk overlay to other media
 
 
